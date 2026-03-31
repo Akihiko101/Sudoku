@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Sudoku.vcxproj" Id="57fef788-cbe3-4c34-b15b-d6d03a6396e3" />
+</Solution>
